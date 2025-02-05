@@ -34,15 +34,16 @@ Welcome to my GitHub profile! I am a **scientist-turned-data enthusiast** with a
 ### 🔍 Machine Learning Spin Correlations
 Used **unsupervised learning** to analyze spin correlations in a quantum magnet.
 - 📖 [Blog post](https://jh-xu.github.io/posts/Machine-learning-correlations-of-vectors)
-- 💻 [Code](https://github.com/jh-xu/research-code/blob/main/Machine_learning.ipynb)
+- 💻 [Code](https://github.com/jh-xu/Scientific_data_analysis/blob/main/Reverse_Monte_Carlo_analysis/Gd2Hf2O7/Machine_learning.ipynb)
 
 ### 📊 Mean-Field Theory for Neutron Scattering
 Applied **Mean-Field Theory** to neutron scattering data using HPC and **Numba** for efficiency.
-- 💻 [Code](https://github.com/jh-xu/research-code/blob/main/Mean_field.ipynb)
+- 📖 [Blog post](https://jh-xu.github.io/posts/Mean-field-calculation-for-spin-models)
+- 💻 [Code](https://github.com/jh-xu/Scientific_data_analysis/blob/main/Reverse_Monte_Carlo_analysis/Gd2Hf2O7/Mean_field_analysis_with_Python_at_RWTH_HPC_center/Mean_field.ipynb)
 
 ### 🌀 Automating Crystal Field Analysis
 Developed a Python automation script for **SPECTRA**, improving usability and efficiency.
-- 💻 [Code](https://github.com/jh-xu/research-code/blob/main/Crystal_field_automation.ipynb)
+- 💻 [Code](https://github.com/jh-xu/Scientific_data_analysis/blob/main/Crystal_field/Sm2Zr2O7_Winpexpect_call_Spectre.ipynb)
 
 ## 🚀 I'm Looking for Opportunities!
 I'm actively seeking a **Data Scientist** role where I can apply my analytical and computational skills to real-world problems. If you're interested in collaborating or have opportunities, feel free to connect!
