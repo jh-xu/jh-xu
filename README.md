@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub profile! I am a **scientist-turned-data enthusiast** with a strong background in **quantum materials, data analysis, and programming**. My expertise lies in analyzing complex scientific datasets, developing computational models, and leveraging machine learning techniques.
 
 ## 🔬 About Me
-- 🧑‍🔬 **Background**: PhD in Physics with 10 years of research experience in **quantum materials**.
+- 🧑‍🔬 **Background**: PhD in Physics with 10 years of research experience in **quantum materials** ([Google scholar](https://scholar.google.de/citations?user=Q_3Ayi8AAAAJ&hl=en): 30+ publications, 700 citations).
 - 📊 **Data Analysis**: Passionate about extracting insights from scientific data using advanced computational techniques.
 - 💻 **Programming**: Experienced in Python, MATLAB, Mathematica, Julia, and C.
 - 🚀 **Interests**: Data science, machine learning, scientific computing, and high-performance computing.
